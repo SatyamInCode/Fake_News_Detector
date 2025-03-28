@@ -78,7 +78,7 @@ git push origin main
 ## 📊 Model Performance
 | Metric      | Score  |
 |------------|--------|
-| **Accuracy** | 99.9%  |
+| **Accuracy** | 99.94%  |
 | **Precision** | 1.00   |
 | **Recall**   | 1.00   |
 | **F1-score** | 1.00   |
@@ -105,6 +105,6 @@ git push origin main
 ---
 
 ## 📧 Contact
-For queries, reach out on 💼 **GitHub** → [yourusername](https://github.com/SatyamInCode)
+For queries, reach out on 💼 **GitHub** → [SatyamInCode](https://github.com/SatyamInCode)
 
 
