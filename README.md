@@ -100,7 +100,7 @@ git push origin main
 3. Commit your changes & push
 4. Submit a **Pull Request**
 
-🙌 **Star this repo** ⭐ if you found it useful!
+# 🙌 **Star this repo** ⭐ if you found it useful!
 
 ---
 
