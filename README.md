@@ -1,4 +1,3 @@
-# Fake_News_Detector
 # 📰 Fake News Detector using Deep Learning
 
 ## 🚀 Overview
