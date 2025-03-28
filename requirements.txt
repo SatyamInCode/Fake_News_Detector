@@ -1,0 +1,9 @@
+streamlit
+tensorflow==2.17.0
+numpy
+pandas
+scikit-learn
+pickle5
+nltk
+matplotlib
+seaborn
