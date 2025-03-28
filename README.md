@@ -83,7 +83,7 @@ git push origin main
 | **Recall**   | 1.00   |
 | **F1-score** | 1.00   |
 
-🔍 **Training Graphs & Logs**: Available in `training_results.png`
+🔍 **Training Graphs & Logs**: Available in [Training Results](training_results.png)
 
 ---
 
